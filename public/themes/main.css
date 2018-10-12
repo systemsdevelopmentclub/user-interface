@@ -3,3 +3,21 @@ html {
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
 }
+body {
+    background-color: #fff;
+    padding-top:20px;
+    padding-bottom: 50px;
+}
+.center {
+    margin: 0 auto;
+    float: none !important;
+    text-align: center;
+}
+.spacer {
+    margin: 0 auto 40px;
+    width: 728px;
+}
+.results {
+    margin:40px 0 0;
+    text-align: center;
+}
