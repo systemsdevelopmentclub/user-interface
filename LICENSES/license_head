@@ -2,7 +2,7 @@ JavaScript Syntax:
 
 /*
  * @source: https://github.com/systemsdevelopmentclub/user-interface
- * @license: https://www.gnu.org/licenses/gpl.txt
+ * @license: https://www.gnu.org/licenses/lgpl.txt
  * Copyright (c) 2018 Systems Development Club
  * This file is part of SDC Search.
  * SDC Search is free software: you can redistribute it and/or modify
@@ -21,7 +21,7 @@ HTML:
 
 <!--    
     @source: https://github.com/systemsdevelopmentclub/user-interface
-    @license: https://www.gnu.org/licenses/gpl.txt
+    @license: https://www.gnu.org/licenses/lgpl.txt
     Copyright (c) 2018 Systems Development Club
     This file is part of SDC Search.
     SDC Search is free software: you can redistribute it and/or modify
