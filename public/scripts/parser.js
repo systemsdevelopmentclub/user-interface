@@ -12,6 +12,8 @@
     //along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 
+// ==Possibly defunct==
+// This file may not be necessary
 
 // this is a temporary js file to keep things organized before I write the stuff
 // to put the json into elements
