@@ -1,17 +1,51 @@
 <!DOCTYPE html>
-<!-- This page will eventually have a <form> to allow users to type in their query. It should also have a search button. -->
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>SDC Search</title>
-	    <meta http-equiv="Content-Language" content="en">
-        <meta name="description" content="Systems Development Club Web Searcher">
-        <meta name="keywords" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        
-        <link rel="stylesheet" href="main.css">
-    </head>
-    <body>
-        <script src="scripts/main.js"></script>
-    </body>
-</html>
+<!--    
+    @source: https://github.com/systemsdevelopmentclub/user-interface
+    @license: https://www.gnu.org/licenses/gpl.txt
+    Copyright (c) 2018 Systems Development Club
+
+    This file is part of SDC Search.
+
+    SDC Search is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    SDC Search is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with SDC Search.  If not, see <https://www.gnu.org/licenses/>.
+  -->
+
+<!--This website is currently very ugly; to protect your eyes, I would recommend
+against viewing it.-->
+
+<head>
+  <title>Systems Development Club</title>
+  
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="../../public/themes/index.css">
+  <script src="../scripts/main.js"></script>
+  </head>
+
+
+  <body>
+  <div class="center">
+    <h1>Is your friend a weeb?</h1>
+  <div class="inputForm[type=text]">
+    <form action="/scripts/main.js" method="get">
+      <input type="text" name="query"><br>
+  </div>
+    <div class="inputForm[type=button]">
+    <input type="submit" value="Submit">
+  </div>
+      </div>
+  </form>
+</form>
+<footer>Copyright (c) 2018 Systems Development Club | Licensed Under the <a href="https://www.gnu.org/licenses/gpl.html">GNU GPLv3</a> | <a href="https://github.com/systemsdevelopmentclub/user-interface">View Source</a> | <a aref="/privacypolicy.html">Privacy Policy</a></footer>
+</body>
+ </html>
