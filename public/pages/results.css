@@ -3,3 +3,8 @@ html {
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
 }
+
+a:link {
+    text-decoration:none;
+    display: inline-block;
+}
