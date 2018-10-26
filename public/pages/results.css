@@ -3,8 +3,19 @@ html {
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
 }
-
 a:link {
-    text-decoration:none;
+    text-decoration: none;
     display: inline-block;
+}
+.result {
+    padding-bottom: 2px;
+    text-decoration: none;
+}
+p {
+    text-decoration: none;
+    color: white;
+}
+.Title {
+
+    
 }
