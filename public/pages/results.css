@@ -15,7 +15,8 @@ p {
     text-decoration: none;
     color: white;
 }
-.Title {
+.title {
+    font-weight: bold;
 
     
 }
